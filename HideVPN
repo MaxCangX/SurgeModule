@@ -1,6 +1,0 @@
-#!name=隱藏VPN圖示
-#!desc=隱藏iOS狀態欄「VPN」圖示
-#!system=ios
-
-[General]
-hide-vpn-icon = true
