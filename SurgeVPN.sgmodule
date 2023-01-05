@@ -1,6 +1,0 @@
-#!name=A
-#!desc=A
-#!system=ios
-
-[General]
-hide-vpn-icon = true
