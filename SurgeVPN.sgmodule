@@ -1,5 +1,5 @@
-#!name=隐藏VPN图标
-#!desc=此模块用于隐藏系统状态栏上的VPN图标
+#!name=Hide VPN Icon
+#!desc=Hide VPN icon on status bar
 #!system=ios
 
 [General]
