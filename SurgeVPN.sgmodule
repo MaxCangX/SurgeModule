@@ -1,5 +1,5 @@
-#!name=A-Hide VPN Icon
-#!desc=Hide VPN icon on status bar
+#!name=隱藏VPN圖示
+#!desc=此模塊用於隱藏狀態欄中的「VPN」圖示
 #!system=ios
 
 [General]
