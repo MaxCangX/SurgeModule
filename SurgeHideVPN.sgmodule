@@ -1,5 +1,5 @@
 #!name=Hide VPN icon
-#!desc=Hide "VPN" icon from status bar
+#!desc=Hide "VPN" icon from status bar.
 #!system=ios
 
 [General]
