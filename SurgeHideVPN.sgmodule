@@ -1,5 +1,5 @@
 #!name=Hide VPN icon
-#!desc=Hide "VPN" icon from status bar.
+#!desc=This module is used to hide the VPN icon on the status bar.
 #!system=ios
 
 [General]
