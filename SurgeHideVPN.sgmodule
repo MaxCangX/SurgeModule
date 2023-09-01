@@ -1,5 +1,5 @@
 #!name=Hide VPN icon
-#!desc=This module is used to hide the VPN icon on the status bar.
+#!desc=This module is used to hide the VPN icon on status bar. Only available on Surge iOS.
 #!system=ios
 
 [General]
